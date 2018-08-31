@@ -53,6 +53,7 @@ library
   -- Modules exported by the library.
   exposed-modules:
     Network.Switchboard.Core.TCP
+    Network.Switchboard.Core.Generic
 
   -- Modules included in this library but not exported.
   -- other-modules:
